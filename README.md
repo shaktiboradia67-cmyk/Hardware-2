@@ -11,3 +11,5 @@ Ans. Here are three widely used desktop CPU socket types and one compatible proc
 (AM4: The Ryzen 5 5600 officially uses the AM4 socket.)
 (LGA1200: Intel's 10th- and 11th-generation desktop CPUs use LGA1200; the Core i7-10700 specifically supports FCLGA1200.)
 Important: A matching socket alone doesn't guarantee compatibility. The motherboard's chipset and BIOS support also need to match the CPU. For example, Intel notes that LGA1151 CPUs from different generations can require different chipsets, and LGA1151 and LGA1200 are electrically incompatible.
+# Q3. Explain in your own words the primary functions of the CPU and the chipset on a motherboard, and describe how they work together when you open a music app like Spotify.
+Ans. 
