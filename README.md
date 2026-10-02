@@ -25,9 +25,9 @@ How They Work Together When You Open Spotify>
 >In simple terms: the CPU does the thinking and processing, while the chipset helps coordinate communication between the CPU and many other parts of the computer. Together, they allow an application like Spotify to load, communicate over the internet, process music data, and produce sound.
 # Q4.Find a clear photo of a real motherboard (from the internet or your own device), and identify at least 5 different ports or slots by circling them and labeling each one.
 Ans. ![Project Image](./WhatsApp%20Image%202026-10-02%20at%2011.58.05%20AM.jpeg)
-1.CPU Socket — holds the processor.
-2.DDR3 RAM Slots — hold the computer's memory modules.
-3.PCIe x16 Slot — commonly used for a graphics card.
-4.SATA Ports — connect SATA storage devices such as hard drives and SSDs.
-5.24-pin ATX Power Connector — supplies power to the motherboard.
+>1.CPU Socket — holds the processor.
+>2.DDR3 RAM Slots — hold the computer's memory modules.
+>3.PCIe x16 Slot — commonly used for a graphics card.
+>4.SATA Ports — connect SATA storage devices such as hard drives and SSDs.
+>5.24-pin ATX Power Connector — supplies power to the motherboard.
 >Other visible examples include USB ports, Gigabit LAN port, audio ports, M.2 connector, and PCIe x1 slots.
